@@ -146,6 +146,5 @@ alias cuc='cucumber -r features'
 
 
 alias cb='chromium-browser --force-device-scale-factor &'
-alias game='cd /home/dalibor/applications/brainworkshop && python brainworkshop.pyw'
 alias todo='vim ~/Dropbox/notes/todo.txt'
 alias pgist='gist -p -o -c -P -f paste'
