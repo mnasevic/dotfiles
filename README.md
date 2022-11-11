@@ -1,11 +1,11 @@
 # dotfiles
 
-Personalized mix of ruby, rails and git. For vim see [vimfiles](https://github.com/dalibor/vimfiles/).
+Personalized mix of ruby, rails and git. For vim see [vimfiles](https://github.com/mnasevic/vimfiles/).
 
 ## Installation
 
 ```bash
-git clone https://github.com/dalibor/dotfiles.git ~/.dotfiles
+git clone https://github.com/mnasevic/dotfiles.git ~/.dotfiles
 
 echo "source ~/.dotfiles/bashrc" >> ~/.bashrc
 echo "source ~/.bash_profile" >> ~/.bashrc
@@ -27,8 +27,8 @@ Create `~/.gitconfig.local` file with your name and email to use with Git
 
 ```bash
 [user]
-  name = Dalibor Nasevic
-  email = dalibor.nasevic@gmail.com
+  name = Milan Nasevic
+  email = mnasevic@gmail.com
 ```
 
 ** Note: make sure you have the newest version of Git installed. Git version 1.7.9.5 does not support include tag that's used to include `gitconfig.local` file.
